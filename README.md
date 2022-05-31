@@ -1,2 +1,5 @@
-# snake game written in python (pygame)
-(c) DE LAFONTAINE, Charles 2020.
+# Snake
+
+Very simplest snake game written in Python at my beginnings
+
+COPYRIGHT: © DE LAFONTAINE, Charles. All Rights Reserved. Any distribution, idea or code replica, is strictly prohibited.
